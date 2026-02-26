@@ -268,8 +268,8 @@ GameObject:
   - component: {fileID: 4724323573372216917}
   - component: {fileID: 7811739364605387782}
   m_Layer: 0
-  m_Name: Camera 8
-  m_TagString: Untagged
+  m_Name: Camera 16
+  m_TagString: Camera 16
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -396,8 +396,8 @@ GameObject:
   - component: {fileID: 7981339657322056465}
   - component: {fileID: 5540401565961587856}
   m_Layer: 0
-  m_Name: Camera 1
-  m_TagString: Untagged
+  m_Name: Camera 9
+  m_TagString: Camera 9
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -652,8 +652,8 @@ GameObject:
   - component: {fileID: 6575345634631574036}
   - component: {fileID: 1176322160410641177}
   m_Layer: 0
-  m_Name: Camera 2
-  m_TagString: Untagged
+  m_Name: Camera 10
+  m_TagString: Camera 10
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -908,8 +908,8 @@ GameObject:
   - component: {fileID: 4574558565361879687}
   - component: {fileID: 8118308788722430964}
   m_Layer: 0
-  m_Name: Camera 5
-  m_TagString: Untagged
+  m_Name: Camera 13
+  m_TagString: Camera 13
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1036,8 +1036,8 @@ GameObject:
   - component: {fileID: 2619022785919984222}
   - component: {fileID: 3438551777160241124}
   m_Layer: 0
-  m_Name: Camera 7
-  m_TagString: Untagged
+  m_Name: Camera 15
+  m_TagString: Camera 15
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1456,7 +1456,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &7723069670747712231
 Transform:
   m_ObjectHideFlags: 0
@@ -1492,8 +1492,8 @@ GameObject:
   - component: {fileID: 422654372507489824}
   - component: {fileID: 4440789416772004336}
   m_Layer: 0
-  m_Name: Camera 6
-  m_TagString: Untagged
+  m_Name: Camera 14
+  m_TagString: Camera 14
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1787,8 +1787,8 @@ GameObject:
   - component: {fileID: 2272270673214810930}
   - component: {fileID: 3429030026876926559}
   m_Layer: 0
-  m_Name: Camera 3
-  m_TagString: Untagged
+  m_Name: Camera 11
+  m_TagString: Camera 11
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1915,8 +1915,8 @@ GameObject:
   - component: {fileID: 4793490567055176469}
   - component: {fileID: 7087155382505729984}
   m_Layer: 0
-  m_Name: Camera 4
-  m_TagString: Untagged
+  m_Name: Camera 12
+  m_TagString: Camera 12
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

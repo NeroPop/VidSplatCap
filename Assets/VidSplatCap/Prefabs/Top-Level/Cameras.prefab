@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5991843377890928806}
   m_Layer: 0
   m_Name: Camera 3
-  m_TagString: Untagged
+  m_TagString: Camera 3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -151,7 +151,7 @@ GameObject:
   - component: {fileID: 8357400343489064709}
   m_Layer: 0
   m_Name: Camera 6
-  m_TagString: Untagged
+  m_TagString: Camera 6
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -562,7 +562,7 @@ GameObject:
   - component: {fileID: 4104172498311998474}
   m_Layer: 0
   m_Name: Camera 8
-  m_TagString: Untagged
+  m_TagString: Camera 8
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -836,7 +836,7 @@ GameObject:
   - component: {fileID: 7451806188196660758}
   m_Layer: 0
   m_Name: Camera 7
-  m_TagString: Untagged
+  m_TagString: Camera 7
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1247,7 +1247,7 @@ GameObject:
   - component: {fileID: 205289461645945918}
   m_Layer: 0
   m_Name: Camera 4
-  m_TagString: Untagged
+  m_TagString: Camera 4
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1384,7 +1384,7 @@ GameObject:
   - component: {fileID: 2894159299395371016}
   m_Layer: 0
   m_Name: Camera 5
-  m_TagString: Untagged
+  m_TagString: Camera 5
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1555,7 +1555,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &7723069670747712231
 Transform:
   m_ObjectHideFlags: 0
@@ -1769,7 +1769,7 @@ GameObject:
   - component: {fileID: 5180747030568850841}
   m_Layer: 0
   m_Name: Camera 1
-  m_TagString: Untagged
+  m_TagString: Camera 1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2180,7 +2180,7 @@ GameObject:
   - component: {fileID: 5419645715223567165}
   m_Layer: 0
   m_Name: Camera 2
-  m_TagString: Untagged
+  m_TagString: Camera 2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

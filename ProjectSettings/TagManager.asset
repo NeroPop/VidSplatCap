@@ -2,8 +2,24 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Camera 1
+  - Camera 2
+  - Camera 3
+  - Camera 4
+  - Camera 5
+  - Camera 6
+  - Camera 7
+  - Camera 8
+  - Camera 9
+  - Camera 10
+  - Camera 11
+  - Camera 12
+  - Camera 13
+  - Camera 14
+  - Camera 15
+  - Camera 16
   layers:
   - Default
   - TransparentFX
@@ -50,27 +66,3 @@ TagManager:
   - Light Layer 5
   - Light Layer 6
   - Light Layer 7
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
